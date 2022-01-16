@@ -1,3 +1,5 @@
+# Commands List
+
 | Command          |                                                Description                                                 |
 | ---------------- | :--------------------------------------------------------------------------------------------------------: |
 | Saavadhan        |                  Be attentive, please listen for the next command or set of instructions.                  |
@@ -26,3 +28,19 @@
 | Gana Amshabag    |                                   Command to divide the group into three                                   |
 | Vama Sara        |                                             Move to your left                                              |
 | Pura Sara        |                                                Move forward                                                |
+
+# Surya Namaskar
+
+1. Om Mitray Namah
+2. Om Raviye Namah
+3. Om Suryay Namah
+4. Om Bhanvey Namah
+5. Om Khagay Namah
+6. Om Pushney Namah
+7. Om Hiranya-garbhay Namah
+8. Om Marichey Namah
+9. Om Adityay Namah
+10. Om Savitre Namah
+11. Om Arkay Namah
+12. Om Bhaskaray Namah
+13. Om Savitrey-Surayanaryanay Namah
